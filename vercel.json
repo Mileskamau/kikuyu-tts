@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/tts.py": {
-      "memory": 1024
-    }
-  }
-}
